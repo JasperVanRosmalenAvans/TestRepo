@@ -1,2 +1,4 @@
-public Class Test{
+package testrepo;
+
+public class Test{
 }
